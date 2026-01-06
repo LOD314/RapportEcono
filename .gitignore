@@ -1,4 +1,5 @@
 # Default ignored files
+.idea/
 /shelf/
 /workspace.xml
 # Editor-based HTTP Client requests
@@ -6,3 +7,12 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/.idea
+main.aux
+main.bbl
+main.blg
+main.fdb_latexmk
+main.fls
+main.log
+main.out
+main.synctex.gz
